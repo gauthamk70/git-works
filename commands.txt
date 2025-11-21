@@ -8,3 +8,5 @@
 > git commit -m "commit message" [adding staged files to local repository]
 > git log [command for listing commit history]
 > git remote add name remote-path [to add remote repository to local]
+> git remote -v [list all remotes]
+> git branch [list all branches]
